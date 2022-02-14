@@ -2,7 +2,8 @@
 
 ### :maple_leaf: Course Warmap (Week 0)
 HTML, CSS Basics
-<div> [First Website](https://stmlad.github.io/) </div>
+</br>
+[First Website](https://stmlad.github.io/)
 
 ### :leaves: Foundation Module (Week 1 - 6) 
 .NET, C#, Command Line, Version control system (Git / GitHub), Integrated development environment (IDE), Control Flow, Arrays, Functions
@@ -12,7 +13,8 @@ LINQ, Forms, Tables, Intro To ASP.NET Core MVC, Razor templates, SQL, Dependency
 
 ### :deciduous_tree: Project Module (Week 13 - 20) 
 Backend for an online browser-based multiplayer game, where every player has their own kingdom and they battle each other to gain control over other kingdoms.
-<div> [DumDum on Azure](https://dumdumdumdum.azurewebsites.net/) </div>
+</br>
+[DumDum on Azure](https://dumdumdumdum.azurewebsites.net/)
 
 
 <!--
