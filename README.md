@@ -1,18 +1,18 @@
-#### GreenFox Academy C# Course (Sep 2021 - Feb 2022)
+# GreenFox Academy C# Course (Sep 2021 - Feb 2022)
 
 ### Week 0 
-## HTML, CSS Basics
+#### HTML, CSS Basics
 
 [First Website](https://stmlad.github.io/)
 
-### Foundation Module (Week 1 - 6) 
-## .NET, C#, Command Line, Version control system (Git / GitHub), Integrated development environment (IDE), Control Flow, Arrays, Functions
+### 🌱 Foundation Module (Week 1 - 6) 
+#### .NET, C#, Command Line, Version control system (Git / GitHub), Integrated development environment (IDE), Control Flow, Arrays, Functions
 
-### Orientation Module (Week 7 - 12) 
-## LINQ, Forms, Tables, Intro To ASP.NET Core MVC, Razor templates, SQL, Dependency Injection, EntityFramework, REST, Hosting, Bootstrap, Integration testing
+### :potted_plant: Orientation Module (Week 7 - 12) 
+#### LINQ, Forms, Tables, Intro To ASP.NET Core MVC, Razor templates, SQL, Dependency Injection, EntityFramework, REST, Hosting, Bootstrap, Integration testing
 
-### Project Module (Week 13 - 20) 
-## [Depoyed on Azure](https://dumdumdumdum.azurewebsites.net/)
+### :deciduous_tree: Project Module (Week 13 - 20) 
+#### [Depoyed on Azure](https://dumdumdumdum.azurewebsites.net/)
 
 
 <!--
