@@ -11,6 +11,7 @@ HTML, CSS Basics
 LINQ, Forms, Tables, Intro To ASP.NET Core MVC, Razor templates, SQL, Dependency Injection, EntityFramework, REST, Hosting, Bootstrap, Integration testing
 
 ### :deciduous_tree: Project Module (Week 13 - 20) 
+Backend for an online browser-based multiplayer game, where every player has their own kingdom and they battle each other to gain control over other kingdoms.
 [DumDum on Azure](https://dumdumdumdum.azurewebsites.net/)
 
 
