@@ -14,7 +14,11 @@ LINQ, Forms, Tables, Intro To ASP.NET Core MVC, Razor templates, SQL, Dependency
 ### :deciduous_tree: Project Module (Week 13 - 20) 
 Backend for an online browser-based multiplayer game, where every player has their own kingdom and they battle each other to gain control over other kingdoms.
 </br>
-[DumDum on Azure](https://dumdumdumdum.azurewebsites.net/)
+[DumDum GitHub](https://github.com/stmlad/DumDum/)
+</br>
+[DumDum Azure](https://dumdumdumdum.azurewebsites.net/)
+
+
 
 
 <!--
