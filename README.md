@@ -1,4 +1,4 @@
-# GreenFox Academy C# Course (Sep 2021 - Feb 2022)
+# :fox_face: GreenFox Academy C# Course (Sep 2021 - Feb 2022)
 
 ### :maple_leaf: Course Warmap (Week 0)
 HTML, CSS Basics
