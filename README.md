@@ -1,8 +1,7 @@
 # GreenFox Academy C# Course (Sep 2021 - Feb 2022)
 
-### Week 0 
-#### HTML, CSS Basics
-
+### :maple_leaf: Course Warmap (Week 0)
+HTML, CSS Basics
 [First Website](https://stmlad.github.io/)
 
 ### :leaves: Foundation Module (Week 1 - 6) 
